@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="iso-8859-1">
+<meta name="description" content="Ejemplo de HTML5">
+<meta name="keywords" content="HTML5, CSS3, JavaScript">
+<title>FRAN GAMES</title>
+<link rel="stylesheet" href="misestilos.css">
+</head>
+<body>
+<div id="agrupar">
+<header id="cabecera">
+<h1>Venta de video juegos</h1>
+</header>
+<nav id="menu">
+<ul>
+<li><a href="#">Inicio</a></li>
+<li><a href="#">Acerca de</a></li>
+<li><a href="#">Servicios</a></li>
+<li><a href="#">Contacto</a></li>
+</ul>
+</nav>
+<section id="seccion">
+<article>
+<header>
+<hgroup>
+<h1>VIDEOS JUEGOS FANTASTICOS</h1>
+<figure>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgXUvhGW0b45Z2_3G_cptuqfGDclTn1VfByQ&usqp=CAU">
+	</figcaption>
+</figure>
+<h2><center>Bienvenido  todos  los amantes de los videojuegos de todas las edades.Nos sumergimos en el emocionante mundo de los videojuegos, explorando todo lo que este universo tiene para ofrecer. Desde clasicos atemporales hasta las ultimas novedades, aqui encontraras un espacio dedicado a la pasion por el juego</h2></center>
+<figure>
+	<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA-aXhepKdf3I3tq8wl0VHdCqjWHuQ6bgWEA&usqp=CAU"></center>
+	</figcaption>
+</figure>
+</hgroup>
+<h2>Nintendo Switch OLED Pokemon Edition HEG001 64 GB console</h2>
+<h2><center>fi
+Consola Nintendo Switch OLED Pokemon Edition HEG001 64 GB
+$619.99
+$609.99</center></h2>
+<figure>
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8_j0r7QID7Qq80HCIhdQm6-kPhocx9thUXsA6haW4Rx5gGfvJ7JJ6KSSU6bU2jVmEGAs&usqp=CAU">
+</figcaption>
+<figure>
+<hgroup>
+<h2> video juegos Sony PS4 Pro HW de 1TB Precio: US$245.99 PlayStation 4 Slim 1TB Console - Black (Renewed)</h2>
+<h2>Los video juegos Sony PS4 Pro HW de 1TB le ofrecen diversión continua cada vez que haga uso de ellos, puesto que han sido diseñados para que pueda librar batallas como todo un experto con su familia y amigos</h2>
+</figure>
+</hgroup>
+<time datetime="" pubdate>
+</time>
+</header>
+<figure>	
+
+<img src="https://i0.wp.com/www.ofertasahora.com/wp-content/uploads/2015/03/PLAY-station-3-video-console-en-oferta-PRADO-11mar15.jpg?resize=300%2C300&ssl=1">
+</figure>
+<figcaption>
+<h2>PLAY station 3 video console on sale PRADO – 11Mar15</h2>
+<h1>US$119.99</h1>
+</figcaption>
+</figure>
+<figcaption>
+<h2>Disponible
+Procesador IBM Cell y un procesador gráfico NVIDIA codesarrollado
+Dolby Digital 5.1, DTS 5.1
+PlayStation 3 utiliza el formato multimedia de disco Blu-ray
+El controlador inalámbrico Dualshock 3 (un controlador) incluido con la PlayStation 3
+Función HDMI + Bravia Synch</h2>
+<header>
+<figure>
+	<img src="https://www.gigantti.fi/image/dv_web_D180001002779379/336728/nintendo-switch-oled-pelikonsoli-neonvariset-joy-con-ohjaimet--pdp_zoom-3000--pdp_main-540.jpg">
+<figcaption>
+<h1>Nitendo stwith $ 490 dolares</h1>
+<h2>Console New Nintendo Switch Oled - Color (version nacional DESTRAVADO COM 256gb) com 150 juegos completos incluindo emuladores do Nintendo 64 oficial e Super nintendo Oficial Nintendinho Oficial e Mega drive e com as funcionabilidade dos contoles sem fio do Playstation 5 Playstation 4 Playstation 3 Xbox One e Series e outros compativeis. ja abilitado que show!</h2>
+</figcaption>
+</figure>
+<section id="reproductor">
+<video id="medio" width="720" height="400" controls>
+<source src="https://www.youtube.com/watch?v=wYVsNoeA--k&t=9s">
+<source src="http://minkbooks.com/content/trailer.ogg">
+</video>
+</section>
+</header>
+</figcaption>
+<footer>
+<p></p>
+</footer>
+</article>
+<article>
+<header>
+<hgroup>
+<h1> "Gamer de corazon, bienvenido a tu hogar virtual."</h1>
+</hgroup>
+<center><aside ></center>
+<figure>
+<img src="https://cdn.idealo.com/folder/Product/5114/0/5114027/s11_produktbild_gross/sony-playstation-4-ps4-slim-500gb.jpg">
+<h1>Precio:	US$245.99  PlayStation 4 Slim 1TB Console - Black (Renewed)<h1>
+<h2>Juegos incluidos: Horizon Zero Dawn Complete Edition, Days Gone, Grand Theft Auto V Premium Edition, y un cupón para PS Plus (suscripción de 3 meses), FORTNITE Voucher.<h2>
+<figcaption>
+</figure>
+<img src="https://elbosque.com.ec/multijuegos/wp-content/uploads/sites/59/2021/03/Box-70-300x300.jpg">
+<center><h1>$ 65.00</h1></center>
+<h1>¡Oferta! ACCESORIOS  AUDIFONOS RECON 70 BY TURTLE BEACH</h1>
+<h2>Toma el control de tus juegos con los controles de ultima generacion, audifonos 5.1 y 7.1 DTS con microfonos HD para liderar tu TEAM a la victoria en cada torneo y competencia! Transmite tus batallas con las camaras HD de tus consolas favoritas y presume tus mandos modificados con la mejor tecnologia que solo MULTIJUEGOS puede ofrecerte!</h2>
+</figcaption>
+<figure>
+	<img src="https://tutiendadevideojuegos.com/224610-home_default/helvetii-playstation-4.jpg">
+	<center><h1>$ 24,99</h1></center>
+	<h2>Helvet II es un juego de accion roguelite en 2D, que gira en torno a la exploracion de la antigua mitologia e historia de las tribus galas Helvetii, asi como de los mitos celtas y de otras culturas, y su adaptación a un juego de accion moderno, desafiante y de ritmo rapido, con un bello estilo artistico.</h2>
+</figure>
+<figure>
+<img src="https://m.media-amazon.com/images/I/51UMn7Nht3S._AC_.jpg">
+<h1>$299.00</h1>
+<h1>Cars 3: Driven to Win para PlayStation 4 - Standard Edition</h1>
+<h2> - Clasificacion del juego: B +12 Años</h2>
+<h2> -Inspirada en la pelicula de Disney y Pixar, Cars 3: Driven to Win nos permite unirnos al mundo de la competicion de alta velocidad con caras conocidas junto a otras nuevas.</h2>
+<h2> -Puedes elegir entre más de 20 personajes personalizables que incluyen a Rayo McQueen, Jackson Storm, Cruz Ramirez y la nueva generación de corredores.</h2>
+<h2> -Compite en los nuevos escenerios de la pelicula, como Radiador Springs y el Autodromo Internacional de Florida.</h2>
+<h2> -Suma a tu familia y amigos con el modo multijugador y prepárense para la mejor experiencia de carreras.</h2>
+<figure>
+	<img src="https://i5.walmartimages.com.mx/mg/gm/3pp/asr/b41ae00b-a4ff-4e68-bb3f-7d8e68f8977b.3227df2fa47dad36b7afaceefe47eebe.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF">
+<center><h1>$678.00</h1></center>
+<h2>Plants Vs Zombies Battle for Neighborville Edicacion Completa Nintendo Switch Juego</h2>
+<h2>Prepara los cañones de jugo y  preparate para la batalla en Plants vs.Zombies: Battle for Neighborville, el juego de disparos mas loco hasta el momento! Ahora en Nintendo Switch, enfrentate a divertidas misiones y derrota a jefes epicos en Weirding Woods, Mount Steep y Neighborville Town Center para recolectar medallas y desbloquear atuendos extravagantes.</h2>
+</figure>
+</figure>
+<figcaption>
+</aside>
+<footer id="pie">
+Derechos Reservados &copy; Este pagina fue publicado por Franklin Noel Lovato castro del segundo Software A, utlilizada para efectos de estudio 
+</footer>
+</div>
+</body>
+</html>
